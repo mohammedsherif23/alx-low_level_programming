@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - The main function
  *  Writing my first C program
@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	put("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
