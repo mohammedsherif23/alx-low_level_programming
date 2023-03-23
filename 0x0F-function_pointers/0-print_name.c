@@ -13,12 +13,3 @@ void print_name(char *name, void (*f)(char *))
 	f(name);
 }
 
-/**
-* name_print - print out name
-* @name: string to print
-*/
-
-void name_print(char *name)
-{
-	printf("%s\n", name);
-}
